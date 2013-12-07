@@ -1,1 +1,1 @@
-This is for the website at <www.minchin.ca/the-hair-station> (see the `gh-pages` branch).
+This is for the website at <http://minchin.ca/the-hair-station> (see the `gh-pages` branch).
